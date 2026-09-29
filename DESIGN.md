@@ -1,9 +1,5 @@
 # Design Document
 
-By Mert Ali
-
-Video overview: <[BBB26 Video Overview](https://www.youtube.com/watch?v=HqLfqC8agTY)>
-
 ## Scope
 This database is based on the twenty-sixth season of Big    Brother Brasil (BBB26) - a reality tv show where 25 contestants compete for the prize of 5 million R$ while nomination one another for eviction and facing a public vote every week. The specifics of the competition make it a great candidate for its own database - it contains an abundance of statistics due to the nature of the game. This database has the purpose of analyzing the statistics of BBB26 in a way where it's easy to answer questions by queries (for example: who won which competition, who nominated whom, etc.). This work is a personal analytical project rather than an industry focused one like a production system tracking an ongoing season. This results to the fact that this database is fixed - there is no need to add new data because the season is finalized and concluded.
 
